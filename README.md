@@ -65,6 +65,14 @@ Domain: Audio verification, database content, MP3 organization
 State: ~/.claude/agent-state/audio-manager-state.json
 ```
 
+### Playwright Testing Agent
+```
+Trigger: "Use playwright-test agent to..." or when verification needed
+Domain: Browser automation, screenshot comparison, form testing, auth flows
+State: ~/.claude/agent-state/playwright-test-state.json
+Tools: mcp__playwright__ tools, Read, Write, Edit
+```
+
 ## Usage Patterns
 
 ### Explicit Invocation

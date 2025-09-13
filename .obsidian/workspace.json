@@ -1,40 +1,24 @@
 {
   "main": {
-    "id": "f4405a2da0055392",
+    "id": "4908c0c256defb0c",
     "type": "split",
     "children": [
       {
-        "id": "27598ac6997936d8",
+        "id": "ebb1c068fc0d369b",
         "type": "tabs",
         "children": [
           {
-            "id": "7f85e119d83a460e",
+            "id": "b917193672309f46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "examples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "275fe3264b9426fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5bbeb3950725cee1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "examples"
             }
           }
         ]
@@ -43,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ec16f710de25715e",
+    "id": "523cc31c0976c66b",
     "type": "split",
     "children": [
       {
-        "id": "d2ac86a0ccc179bf",
+        "id": "9ec810b555a93ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2d462a8543300c",
+            "id": "cbac0ce3f2156f83",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +48,7 @@
             }
           },
           {
-            "id": "b75c131a4b6db2f4",
+            "id": "2b5ec0ae734fe5f2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "d0cb82dd309fbd0c",
+            "id": "78cb9dad98f6abae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "c5ca1c793aebca25",
+    "id": "39789871f5a4a452",
     "type": "split",
     "children": [
       {
-        "id": "f64ae3f6d993ce1a",
+        "id": "412fd0c7ba19b6b8",
         "type": "tabs",
         "children": [
           {
-            "id": "58002d7d18a4e3a9",
+            "id": "0cb951483dc9b851",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for examples"
             }
           },
           {
-            "id": "f7e6f0a3b10db3db",
+            "id": "6a1d702e399d5feb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from examples"
             }
           },
           {
-            "id": "40230ccb551efda5",
+            "id": "e1f9ea4ad836af19",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,18 +137,18 @@
             }
           },
           {
-            "id": "31b36ad6e81a5a4a",
+            "id": "1506383b1e9035c6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "examples.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of examples"
             }
           }
         ]
@@ -176,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,8 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f85e119d83a460e",
+  "active": "cbac0ce3f2156f83",
   "lastOpenFiles": [
-    "Welcome.md"
+    "CCS-STRATEGIC-COMPLETION.md",
+    "strategic-capability-analysis.md",
+    "agent-template.md",
+    "README.md"
   ]
 }
